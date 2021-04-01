@@ -815,7 +815,7 @@
     {
         "id": 50,
         "category": 13,
-        "title": "Туфли c крыьями",
+        "title": "Туфли c крыльями",
         "images": [
             "https://m.media-amazon.com/images/G/01/Shopbop/p/pcs/products/giusz/giusz4028034594/giusz4028034594_q1_1-0._UX357_QL90_.jpg",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzqayCJykrkug4hqufhwRyEwsSESi6DecYB4HFYBV6LvDMS_U"
@@ -1239,7 +1239,7 @@
         "sizes": [
             {
                 "size": "14 US",
-                "avalible": true
+                "avalible": false
             },
             {
                 "size": "18 US",
